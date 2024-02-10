@@ -1,6 +1,13 @@
-### Hi there 👋
+![image](https://github.com/Minurte1/Minurte1/assets/130841899/3f810f4f-0a56-4ebf-a57a-a8d197085749)### Hi there 👋
 # Xin chào, bạn đã đến với GitHub của tôi! 👋
-![Header]([https://source.unsplash.com/random/](https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png)1200x400 "Header")
+### ReactJS
+![ReactJS]((https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png) "ReactJS")
+
+### Node.js
+![Node.js](link_to_node_icon "Node.js")
+
+### C#
+![C#](link_to_csharp_icon "C#")
 ## Giới thiệu
 Xin chào! Tôi là Hồ Hoàng Phúc, một lập trình viên đam mê và người yêu công nghệ. GitHub của tôi là nơi tôi chia sẻ các dự án, mã nguồn mở, và kinh nghiệm lập trình của mình.
 ## Cách Liên Hệ
