@@ -6,10 +6,6 @@ Xin chào! Tôi là Hồ Hoàng Phúc, một lập trình viên đam mê và ng�
 ## Cách Liên Hệ
 Nếu bạn muốn liên hệ hoặc có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với tôi qua:
 - Email: hohoangphucjob@gmail.com
-## Đừng Quên Theo Dõi!
-Nếu bạn quan tâm đến dự án của tôi, hãy đừng ngần ngại đánh dấu GitHub này và theo dõi tôi để nhận thông báo về các cập nhật mới nhất!
-![Footer](https://source.unsplash.com/random/1200x200 "Footer")
-
 <!--
 **Minurte1/Minurte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
