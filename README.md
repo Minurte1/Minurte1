@@ -1,4 +1,4 @@
-![image](https://github.com/Minurte1/Minurte1/assets/130841899/3f810f4f-0a56-4ebf-a57a-a8d197085749)### Hi there 👋
+![image](https://github.com/Minurte1/Minurte1/assets/130841899/3f810f4f-0a56-4ebf-a57a-a8d197085749/50x50)### Hi there 👋
 # Xin chào, bạn đã đến với GitHub của tôi! 👋
 ### ReactJS
 ![ReactJS]((https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png) "ReactJS")
