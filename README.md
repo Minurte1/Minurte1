@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Xin chào, bạn đã đến với GitHub của tôi! 👋
+## Xin chào, bạn đã đến với GitHub của tôi! 👋
 
 Tôi là Hồ Hoàng Phúc, một lập trình viên đam mê và người yêu công nghệ. GitHub của tôi là nơi tôi chia sẻ các dự án, mã nguồn mở, và kinh nghiệm lập trình của mình.
 
