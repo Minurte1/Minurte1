@@ -6,6 +6,7 @@ Tôi là Hồ Hoàng Phúc, một lập trình viên đam mê và người yêu 
 Nếu bạn muốn liên hệ hoặc có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với tôi qua:
 - Email: hohoangphucjob@gmail.com
 - Web: https://portfolio-phuc2px.vercel.app/
+- Facebook: https://www.facebook.com/magin2px/
 
 <!--
 **Minurte1/Minurte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
